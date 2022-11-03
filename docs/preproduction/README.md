@@ -44,11 +44,11 @@ Style artistique des animations
 ![art](https://user-images.githubusercontent.com/90851849/199825898-f784ff70-78d7-479e-8f53-e2af834d493f.jpg)
 
 
-<br>
- [Fête des Lumières de Lyon 2014 : invasion de méduses au Parc de la Tête d'Or !](https://www.francetvinfo.fr/culture/spectacles/fete-des-lumieres-de-lyon-2014-invasion-de-meduses-au-parc-de-la-tete-d-or_3388041.html)
+
+ [Fête des Lumières de Lyon 2014 : invasion de méduses au Parc de la Tête d'Or ! (francetvinfo.fr)](https://www.francetvinfo.fr/culture/spectacles/fete-des-lumieres-de-lyon-2014-invasion-de-meduses-au-parc-de-la-tete-d-or_3388041.html)
 <br>
  [Exposure | Light Paint Selfies | créé par Lucion Traveling Light](https://lucion.ca/en/blog/portfolio/exposure/)
-<br>
+<br
  [Montréal en lumière | Une Nuit blanche à domicile | La Presse](https://www.lapresse.ca/arts/2021-03-08/montreal-en-lumiere/une-nuit-blanche-a-domicile.php)
  <br>
  [mooGarden | créé par Lucion Traveling Light](https://moongardenmusic.com/)
