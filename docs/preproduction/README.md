@@ -42,7 +42,8 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
-> ![Presentation concept (1)](https://user-images.githubusercontent.com/90851849/199819078-aa63413a-d400-4e00-b8a8-dc7ba256a057.jpg)
+> 
+![Presentation concept (1)](https://user-images.githubusercontent.com/90851849/199819078-aa63413a-d400-4e00-b8a8-dc7ba256a057.jpg)
 
 
 > Insérez directement des captures d'écran et liens vers des médias ici.
