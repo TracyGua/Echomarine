@@ -54,7 +54,7 @@ Style artistique des animations
 [mooGarden | créé par Lucion Traveling Light](https://moongardenmusic.com/)
 
 Palette
-![patte](https://user-images.githubusercontent.com/90851849/199828385-6d4a7946-4e20-48fd-aa0f-ed471cbf41c5.png)
+![patte](https://user-images.githubusercontent.com/90851849/199829554-70a98c98-8381-419e-a156-553e5490b252.png)
 
 ## Scénario, scénarimage ou document audio/visuel
 [Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
