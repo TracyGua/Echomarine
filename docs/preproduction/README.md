@@ -28,7 +28,6 @@
 
 # Intention ou concept
 ## Cartographie
-> Exemples:
 ![projetgit drawio](https://user-images.githubusercontent.com/90851849/199825237-484d4b88-d23b-4aab-a2f7-d7ce873f1dbd.png)
 
 ## Intention de départ
