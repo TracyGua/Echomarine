@@ -31,7 +31,7 @@
 ![projetgit drawio](https://user-images.githubusercontent.com/90851849/199825237-484d4b88-d23b-4aab-a2f7-d7ce873f1dbd.png)
 
 ## Intention de départ
-Par ce projet, nous souhaitons sensibiliser les interacteurs aux animaux marins en voie d'extinction.
+Par ce projet, nous souhaitons sensibiliser les interacteurs aux animaux marins en voie de disparition.
 
 ## Synopsis
 Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fonds marins et de sa population en menace d’extinction. Animaux interactifs et plantes marines. Le bocal a un but contemplatif et vise à conscientiser. 
