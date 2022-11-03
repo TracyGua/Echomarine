@@ -29,10 +29,7 @@
 # Intention ou concept
 ## Cartographie
 > Exemples:
-
-![Exemple de cartographie 1](medias/cartographie_exemple.PNG)
-![Exemple de cartographie 2](medias/cartographie_exemple_2.PNG)
-![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
+![projetgit drawio](https://user-images.githubusercontent.com/90851849/199825237-484d4b88-d23b-4aab-a2f7-d7ce873f1dbd.png)
 
 ## Intention de départ
 Par ce projet, nous souhaitons sensibiliser les interacteurs aux animaux marins en voie d'extinction.
