@@ -40,11 +40,6 @@ Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fond
 Inspirations
 ![Presentation concept (1)](https://user-images.githubusercontent.com/90851849/199820112-ac1d6914-41f7-4f8e-b308-417609cc6734.jpg)
 
-Style artistique des animations
-![art](https://user-images.githubusercontent.com/90851849/199825898-f784ff70-78d7-479e-8f53-e2af834d493f.jpg)
-
-
-
  [Fête des Lumières de Lyon 2014 : invasion de méduses au Parc de la Tête d'Or ! (francetvinfo.fr)](https://www.francetvinfo.fr/culture/spectacles/fete-des-lumieres-de-lyon-2014-invasion-de-meduses-au-parc-de-la-tete-d-or_3388041.html)
 
 [Exposure | Light Paint Selfies | créé par Lucion Traveling Light](https://lucion.ca/en/blog/portfolio/exposure/)
@@ -52,6 +47,9 @@ Style artistique des animations
 [Montréal en lumière | Une Nuit blanche à domicile | La Presse](https://www.lapresse.ca/arts/2021-03-08/montreal-en-lumiere/une-nuit-blanche-a-domicile.php)
  
 [mooGarden | créé par Lucion Traveling Light](https://moongardenmusic.com/)
+
+Style artistique des animations
+![art](https://user-images.githubusercontent.com/90851849/199825898-f784ff70-78d7-479e-8f53-e2af834d493f.jpg)
 
 Palette
 ![patte](https://user-images.githubusercontent.com/90851849/199829554-70a98c98-8381-419e-a156-553e5490b252.png)
