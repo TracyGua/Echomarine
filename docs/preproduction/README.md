@@ -37,7 +37,7 @@ Par ce projet, nous souhaitons sensibiliser les interacteurs aux animaux marins 
 Une sphère ressemblant à un bocal nous donne un aperçu de la beauté des fonds marins et de sa population en menace d’extinction. Animaux interactifs et plantes marines. Le bocal a un but contemplatif et vise à conscientiser. 
 
 ## Tableau d'ambiance (*moodboard*)
-> Inspirations
+Inspirations
 ![Presentation concept (1)](https://user-images.githubusercontent.com/90851849/199820112-ac1d6914-41f7-4f8e-b308-417609cc6734.jpg)
 
 Style artistique des animations
