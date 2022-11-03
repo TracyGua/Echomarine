@@ -51,7 +51,7 @@ Style artistique des animations
 <br>
  [Montréal en lumière | Une Nuit blanche à domicile | La Presse] (https://www.lapresse.ca/arts/2021-03-08/montreal-en-lumiere/une-nuit-blanche-a-domicile.php).
  <br>
- [mooGarden | créé par Lucion Traveling Light] (https://moongardenmusic.com/).
+ [mooGarden | créé par Lucion Traveling Light](https://moongardenmusic.com).
 
 [Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
 
